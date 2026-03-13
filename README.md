@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aldair%20Altamirano&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20%26%20Microservices&descAlignY=60&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aldair%20Altamirano&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20%26%20Microservices&descAlignY=60&descSize=18&animation=fadeIn" alt="Header"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -21,9 +21,6 @@
   <a href="https://github.com/micimas" target="_blank" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/>
   </a>&nbsp;
-  <a href="https://wa.me/51987321627" target="_blank" title="WhatsApp">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=micimas&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views" />
@@ -37,9 +34,18 @@
 
 ### 👋 Sobre mí
 
-**Desarrollador Full Stack** egresado de Ingeniería de Sistemas en la Universidad Nacional de Cañete, con experiencia en desarrollo backend, microservicios e integración de APIs REST. He trabajado en proyectos de automatización, ERP y plataformas web que han generado mejoras medibles en eficiencia y rendimiento.
+```typescript
+const aldair = {
+  rol:         "Full Stack Developer 🚀",
+  ubicacion:   "Lima, Perú 🇵🇪",
+  universidad: "Univ. Nacional de Cañete",
+  enfoque:     ["Backend", "Microservicios", "APIs REST"],
+  idiomas:     ["Español (Nativo)", "Inglés (Intermedio)"],
+  disponible:  true,
+};
+```
 
-Mi enfoque está en **resolver problemas de forma práctica**, escribir código limpio y aportar al trabajo en equipo para lograr resultados de alto impacto. 🎯
+**Desarrollador Full Stack** egresado de Ingeniería de Sistemas, con experiencia en desarrollo backend, microservicios e integración de APIs REST. He trabajado en proyectos de automatización, ERP y plataformas web que han generado mejoras medibles en eficiencia y rendimiento.
 
 **🚀 Lo que hago:**
 - 🔧 Diseño e implementación de **microservicios** con Spring Boot y Docker
@@ -58,30 +64,52 @@ Mi enfoque está en **resolver problemas de forma práctica**, escribir código 
 
 ## 🛠️ Tech Stack
 
-### Lenguajes
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,html,css,scss&theme=dark&perline=8" width="480"/>
-</p>
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
-### Frameworks & Librerías
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,angular,vite&theme=dark&perline=6" width="360"/>
-</p>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=scss&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48"/>
 
-### Bases de Datos
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite&theme=dark&perline=6" width="180"/>
-</p>
+</td>
+<td width="50%" align="center" valign="top">
 
-### DevOps & Herramientas
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,postman,selenium,figma,notion,idea&theme=dark&perline=9" width="540"/>
-</p>
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=php&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48"/>
 
-### OS & Entornos
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,windows&theme=dark&perline=5" width="120"/>
-</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🔧 Herramientas & Entorno
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=selenium&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/>
+<img src="https://skillicons.dev/icons?i=windows&theme=dark" width="48"/>
 
 </div>
 
@@ -116,17 +144,15 @@ Mi enfoque está en **resolver problemas de forma práctica**, escribir código 
 
 <div align="center">
 
-### 📁 Repositorios Públicos
-> Todo mi código, experimentos y proyectos están disponibles directamente en mi GitHub
+Aquí puedes encontrar todo mi trabajo: desde proyectos universitarios y personales hasta experimentos, automatizaciones y casos de estudio reales. Todo está disponible de forma pública para que puedas explorar, revisar el código y ver cómo trabajo. 👇
+
+<br/>
 
 <a href="https://github.com/micimas?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/🗂️%20Ver%20todos%20mis%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-### 💼 Portfolio Personal
-> Todos mis proyectos y casos de estudio están disponibles en mi portfolio personal
+&nbsp;&nbsp;
 
 <a href="https://micimas.github.io" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Visitar%20mi%20Portfolio-302b63?style=for-the-badge&logoColor=white"/>
