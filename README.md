@@ -126,7 +126,7 @@ I am a Systems Engineer and Full Stack Developer with experience in building web
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=micimas&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=micimas&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&hide_border=true" alt="Activity Graph" width="95%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=micimas&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&hide_border=true" alt="Activity Graph" width="95%"/> -->
 
 </div>
 
