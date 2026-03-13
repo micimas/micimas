@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aldair%20Altamirano&fontSize=52&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer%20Backend%20and%20Microservices&descAlignY=50&descSize=18&animation=fadeIn" alt="Header">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aldair%20AS&fontSize=52&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer%20Backend%20and%20Microservices&descAlignY=50&descSize=18&animation=fadeIn" alt="Header">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%9A%80;Backend+%26+Microservices+%E2%9A%99%EF%B8%8F;Spring+Boot+%7C+Node.js+%7C+React+%7C+Python;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
