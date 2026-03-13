@@ -1,16 +1,14 @@
 <div align="center">
 
-<!-- HEADER ANIMADO - CORREGIDO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aldair%20Altamirano&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20Backend&descAlignY=50&descSize=18&animation=fadeIn" alt="Header" />
+<!-- HEADER ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aldair%20Altamirano&fontSize=52&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer%20Backend%20and%20Microservices&descAlignY=50&descSize=18&animation=fadeIn" alt="Header">
 
-<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%9A%80;Backend+%26+Microservicios+%E2%9A%99%EF%B8%8F;Spring+Boot+%7C+Node.js+%7C+React+%7C+Python;Siempre+aprendiendo%2C+siempre+construyendo+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%9A%80;Backend+%26+Microservices+%E2%9A%99%EF%B8%8F;Spring+Boot+%7C+Node.js+%7C+React+%7C+Python;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- CONTACT ICONS ONLY -->
 <p>
   <a href="mailto:asanchez0436@gmail.com" title="Gmail">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48"/>
@@ -20,7 +18,7 @@
   </a>&nbsp;
   <a href="https://github.com/micimas" target="_blank" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/>
-  </a>&nbsp;
+  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=micimas&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views" />
@@ -30,34 +28,37 @@
 ---
 
 <!-- ABOUT ME -->
-<img align="right" alt="Cat coding" width="300" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top">
 
-### 👋 Sobre mí
+### 👋 About me
 
 ```typescript
-const aldair = {
-  rol:         "Full Stack Developer 🚀",
-  ubicacion:   "Lima, Perú 🇵🇪",
-  universidad: "Univ. Nacional de Cañete",
-  enfoque:     ["Backend", "Microservicios", "APIs REST"],
-  idiomas:     ["Español (Nativo)", "Inglés (Intermedio)"],
-  disponible:  true,
+const micim_AS = {
+  role: "Full Stack Developer",
+  location: "Lima, Peru 🇵🇪",
+  university: "Univ. Nacional de Cañete",
+  focus: [
+    "Frontend",
+    "Backend",
+    "Microservices",
+    "REST APIs",
+    "Automation",
+  ],
+  languages: ["Spanish (Native)", "English (B1)"],
 };
 ```
+</td>
+<td width="30%" align="center" valign="middle">
 
-**Desarrollador Full Stack** egresado de Ingeniería de Sistemas, con experiencia en desarrollo backend, microservicios e integración de APIs REST. He trabajado en proyectos de automatización, ERP y plataformas web que han generado mejoras medibles en eficiencia y rendimiento.
+<img alt="Cat coding" width="100%" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" style="border-radius:12px"/>
 
-**🚀 Lo que hago:**
-- 🔧 Diseño e implementación de **microservicios** con Spring Boot y Docker
-- 🌐 Desarrollo de **APIs REST** robustas y escalables
-- ⚛️ Interfaces modernas con **React / Angular / Next.js**
-- 🤖 Automatización de procesos y generación de reportes
-- 🗄️ Modelado y optimización de **bases de datos** relacionales
-- 🐳 **CI/CD** con Jenkins y despliegue en servidores VPS
+</td>
+</tr>
+</table>
 
-<br clear="right"/>
-
----
+I am a Systems Engineer and Full Stack Developer with experience in building web applications and Progressive Web Apps (PWA). Currently, I am working on projects related to accounting systems, document management, and industrial process optimization. Recently, I have been focusing on web development, working with REST APIs and microservices architectures. I have a strong technical background and continuously learn new technologies to improve my skills and adapt to new tools and environments.
 
 <!-- SKILLS -->
 <div align="center">
@@ -100,7 +101,7 @@ const aldair = {
 
 <br/>
 
-### 🔧 Herramientas & Entorno
+### 🔧 Tools & Environment
 <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/>
 <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/>
 <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48"/>
@@ -116,23 +117,14 @@ const aldair = {
 ---
 
 <!-- GITHUB STATS -->
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micimas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micimas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&langs_count=8"/>
 
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=micimas&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=micimas&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&hide_border=true" alt="Activity Graph" width="95%"/>
 
@@ -140,22 +132,20 @@ const aldair = {
 
 ---
 
-## 🌟 Explora Mi Trabajo
+## 🌟 Explore My Work
 
 <div align="center">
 
-Aquí puedes encontrar todo mi trabajo: desde proyectos universitarios y personales hasta experimentos, automatizaciones y casos de estudio reales. Todo está disponible de forma pública para que puedas explorar, revisar el código y ver cómo trabajo. 👇
+Here you can find all my work: from university and personal projects to experiments, automations and real case studies. Everything is publicly available so you can explore the code and see how I work. 👇
 
 <br/>
 
 <a href="https://github.com/micimas?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/🗂️%20Ver%20todos%20mis%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🗂️%20All%20my%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="45"/>
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://micimas.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Visitar%20mi%20Portfolio-302b63?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐%20Visit%20my%20Portfolio-302b63?style=for-the-badge&logoColor=white&labelColor=302b63" height="45"/>
 </a>
 
 </div>
@@ -167,8 +157,8 @@ Aquí puedes encontrar todo mi trabajo: desde proyectos universitarios y persona
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 
-**⭐ Si te gusta mi trabajo, ¡dale una estrella a mis repos!**
+**⭐ If you like my work, give a star to my repos!**
 
-*"El código es poesía escrita en lógica."* 🚀
+*"Code is poetry written in logic."* 🚀
 
 </div>
