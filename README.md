@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER ANIMADO -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aldair%20Altamirano&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend&descAlignY=60&descSize=18&animation=fadeIn)
+<!-- HEADER ANIMADO - CORREGIDO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aldair%20Altamirano&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20Backend&descAlignY=50&descSize=18&animation=fadeIn" alt="Header" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
